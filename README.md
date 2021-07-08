@@ -1,5 +1,5 @@
 # Habit-Tracker
-A habit tracking programing using the Pixela API
+A habit tracking python program that tracks your habit or efforsts using the Pixela API 
 
 Pixela Website:
   https://pixe.la/
